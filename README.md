@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **html and css**
 
-- 📫 How to reach me **SmoDev_#8902 or @EventHandlerss**
+- 📫 How to reach me **SmoDev_#8902 or @EventHandlers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
