@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m collaborating with **DevelopmentAccademy**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Lory9098?tab=repositories](https://github.com/Lory9098?tab=repositories)
 
 - 💬 Ask me about **html and css**
