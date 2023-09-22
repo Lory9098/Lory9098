@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm SmoDev_</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lory9098&label=Profile%20views&color=0e75b6&style=flat" alt="lory9098" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lory9098" alt="lory9098" /></a> </p>
 
-- 🔭 I’m currently working on **OxyBedwars** & **DuelGround**
+- 🔭 I’m currently working on...nothing?
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lory9098?tab=repositories](https://github.com/Lory9098?tab=repositories)
 
-- 💬 Ask me about **html and css**
-
-- 📫 How to reach me **SmoDev_#8902 or @EventHandlers**
+- 📫 How to reach me **smodev_ or @HikariConfig**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
